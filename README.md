@@ -9,4 +9,4 @@ Public repository for internal team skills, references, and reusable guidance.
 
 ## Notes
 
-This repository is a clean starting point. Add new skill folders under `skills/<skill-name>/` as the library grows.
+Add new skill folders under `skills/<skill-name>/` as the library grows.
